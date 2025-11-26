@@ -1,0 +1,5 @@
+{
+  "name": "RankCheck AI",
+  "description": "A simplified SEO tool that uses Gemini's Google Search grounding to check if your website appears in the top search results for specific keywords.",
+  "requestFramePermissions": []
+}
